@@ -6,7 +6,7 @@ public class FirstServiceImpl implements FirstService {
 
 	
 	public void doSomeThing() {	
-      System.out.println("doing something .....");
+      System.out.println("doing something to test polling git .....");
       System.out.println("something done"); 
 	}
 
